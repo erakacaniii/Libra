@@ -1,0 +1,8 @@
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.csproj.AssemblyReference.cache
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.AssemblyInfoInputs.cache
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.AssemblyInfo.cs
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.csproj.CoreCompileInputs.cache
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CTS\source\repos\projectAPI\LibraOn\Libra\BookAPI\obj\Debug\net8.0\BookAPI.sourcelink.json
