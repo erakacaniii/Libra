@@ -1,12 +1,12 @@
-﻿
+﻿using Libratest;
 
-var allBooks = new List<Libratest.Books>()
+var allBooks = new List<Libratest.Book>()
 {
-    new Libratest.Books()
+    new Libratest.Book()
     {
         Title = "Book 1"
     },
-    new Libratest.Books()
+    new Libratest.Book()
     {
         Title = "book2 "
     }
